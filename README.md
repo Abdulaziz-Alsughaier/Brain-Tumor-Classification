@@ -10,4 +10,5 @@ This dataset is a combination of the following three datasets :
 
 
 ## Important links
-to be added
+ - [Google Doc](https://docs.google.com/document/d/1Jlhjh6hORC81ql96qFVrwzAtONxaj1x5/edit?usp=sharing&ouid=109409937220767350929&rtpof=true&sd=true)
+ ...
