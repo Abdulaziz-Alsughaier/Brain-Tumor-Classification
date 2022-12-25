@@ -9,4 +9,4 @@ The aim of this project is to create a classification model that is able to dete
 
 ## Important links
  - [Project Proposal] Will be added later
- - [Cleaned Data] (https://drive.google.com/file/d/1oRjMcL6XzeSeq6nO9MLDoDqIunDW23RP/view?usp=share_link)
+ - [Cleaned Data](https://drive.google.com/file/d/1oRjMcL6XzeSeq6nO9MLDoDqIunDW23RP/view?usp=share_link)
