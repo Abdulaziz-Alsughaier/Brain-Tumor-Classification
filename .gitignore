@@ -1,0 +1,8 @@
+COPY/
+cleaned/
+output/
+crop.py
+remove_dub.py
+rename.py
+split.py
+visual.ipynb
