@@ -1,6 +1,7 @@
 COPY/
 cleaned/
 output/
+cleaned.rar
 crop.py
 remove_dub.py
 rename.py
