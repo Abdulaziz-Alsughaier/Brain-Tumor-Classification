@@ -17,6 +17,7 @@ The aim of this project is to create a classification model that is able to dete
  - [Tensorflow/EffecientNet Docs](https://www.tensorflow.org/api_docs/python/tf/keras/applications/efficientnet)
 
 ## Directory Structure
+```bash
 /root
 ├───/clean NO
 │   ├───/Benign
@@ -35,3 +36,4 @@ The aim of this project is to create a classification model that is able to dete
 │   ├───/B5
 │   └───/B6
 └───Models.ipynb
+```
